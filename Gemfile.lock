@@ -164,6 +164,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  activemodel (~> 7.0)
   bootsnap
   debug
   puma (~> 5.0)
