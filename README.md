@@ -1,6 +1,8 @@
 # Payload Activity Monitor
 A lightweight API service designed to track user activities such as deposits and withdrawals. The application provides alert functionality based on predefined rules, allowing users to monitor financial activities in real-time. This service is built with Ruby on Rails, containerized with Docker for easy deployment, and can be tested via a /event API endpoint.
 
+The application has been designed to gracefully handle errors and a wide range of edge cases.
+
 ## Tech Stack
 - Ruby on Rails
 - Docker
